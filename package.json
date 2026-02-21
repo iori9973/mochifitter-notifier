@@ -1,0 +1,16 @@
+{
+  "name": "com.mochifitter.notifier",
+  "version": "1.0.0",
+  "displayName": "MochiFitter Notifier",
+  "description": "もちふぃった～の処理完了時に通知音を再生する Unity Editor 拡張です。",
+  "unity": "2022.3",
+  "type": "tool",
+  "author": {
+    "name": "iori9973",
+    "url": "https://github.com/iori9973"
+  },
+  "url": "https://github.com/iori9973/mochifitter-notifier",
+  "changelogUrl": "https://github.com/iori9973/mochifitter-notifier/blob/main/CHANGELOG.md",
+  "dependencies": {},
+  "vpmDependencies": {}
+}

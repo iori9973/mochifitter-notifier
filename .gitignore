@@ -1,3 +1,14 @@
+# 購入ファイル（コミット対象外）
+sample/
+sample.meta
+
+# テストプロジェクトのビルド成果物
+Tests/bin/
+Tests/obj/
+
+# Unity が自動生成する .csproj は除外するが、テストプロジェクトは残す
+!Tests/MochiFitterNotifier.Tests.csproj
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore

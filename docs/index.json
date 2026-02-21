@@ -1,0 +1,46 @@
+{
+  "name": "MochiFitter Notifier",
+  "id": "com.mochifitter.notifier.repo",
+  "url": "https://iori9973.github.io/mochifitter-notifier/index.json",
+  "author": "iori9973",
+  "packages": {
+    "com.mochifitter.notifier": {
+      "versions": {
+        "1.0.2": {
+          "name": "com.mochifitter.notifier",
+          "version": "1.0.2",
+          "displayName": "MochiFitter Notifier",
+          "description": "もちふぃった～の処理完了時に通知音を再生する Unity Editor 拡張です。",
+          "unity": "2022.3",
+          "type": "tool",
+          "author": {
+            "name": "iori9973",
+            "url": "https://github.com/iori9973"
+          },
+          "url": "https://github.com/iori9973/mochifitter-notifier/releases/download/v1.0.2/mochifitter-notifier-1.0.2.zip",
+          "changelogUrl": "https://github.com/iori9973/mochifitter-notifier/blob/main/CHANGELOG.md",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "zipSHA256": "bb96c25e485f7ea647e50c24e5759dfe0b34bf5fc124c1b023cde1d64c19b883"
+        },
+        "1.0.1": {
+          "name": "com.mochifitter.notifier",
+          "version": "1.0.1",
+          "displayName": "MochiFitter Notifier",
+          "description": "もちふぃった～の処理完了時に通知音を再生する Unity Editor 拡張です。",
+          "unity": "2022.3",
+          "type": "tool",
+          "author": {
+            "name": "iori9973",
+            "url": "https://github.com/iori9973"
+          },
+          "url": "https://github.com/iori9973/mochifitter-notifier/releases/download/v1.0.1/mochifitter-notifier-1.0.1.zip",
+          "changelogUrl": "https://github.com/iori9973/mochifitter-notifier/blob/main/CHANGELOG.md",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "zipSHA256": "3e2555ffe7b89c55626b7e75bc41dc32f09841d5f7bb1aedd34a018940a98eac"
+        }
+      }
+    }
+  }
+}
