@@ -81,6 +81,7 @@ jobs:
   # ---------------------------------------------------------------
   update-listing:
     needs: release
+    if: "!contains(github.ref_name, '-')"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
