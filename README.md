@@ -55,7 +55,7 @@ GitHub Actions が自動的にパッケージ zip を作成し、VPM リポジ�
 
 ## 動作環境
 
-- Unity 2022.3 以降
+- Unity 2022.3.22f1
 - Windows / macOS / Linux
 
 ## ライセンス
